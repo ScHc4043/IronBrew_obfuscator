@@ -1,0 +1,10 @@
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2\bin\Release\netcoreapp2.2\IronBrew2.deps.json
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2\bin\Release\netcoreapp2.2\IronBrew2.dll
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2\bin\Release\netcoreapp2.2\IronBrew2.pdb
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2\obj\Release\netcoreapp2.2\IronBrew2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2\obj\Release\netcoreapp2.2\IronBrew2.AssemblyInfoInputs.cache
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2\obj\Release\netcoreapp2.2\IronBrew2.AssemblyInfo.cs
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2\obj\Release\netcoreapp2.2\IronBrew2.csproj.CoreCompileInputs.cache
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2\obj\Release\netcoreapp2.2\IronBrew2.dll
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2\obj\Release\netcoreapp2.2\IronBrew2.pdb
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2\obj\Release\netcoreapp2.2\IronBrew2.csproj.AssemblyReference.cache

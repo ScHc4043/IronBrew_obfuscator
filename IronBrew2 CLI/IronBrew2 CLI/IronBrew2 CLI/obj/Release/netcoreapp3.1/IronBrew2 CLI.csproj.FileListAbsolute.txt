@@ -1,0 +1,17 @@
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\bin\Release\netcoreapp3.1\IronBrew2 CLI.exe
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\bin\Release\netcoreapp3.1\IronBrew2 CLI.deps.json
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\bin\Release\netcoreapp3.1\IronBrew2 CLI.runtimeconfig.json
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\bin\Release\netcoreapp3.1\IronBrew2 CLI.runtimeconfig.dev.json
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\bin\Release\netcoreapp3.1\IronBrew2 CLI.dll
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\bin\Release\netcoreapp3.1\IronBrew2 CLI.pdb
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\bin\Release\netcoreapp3.1\IronBrew2.dll
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\bin\Release\netcoreapp3.1\IronBrew2.pdb
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\obj\Release\netcoreapp3.1\IronBrew2 CLI.csproj.AssemblyReference.cache
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\obj\Release\netcoreapp3.1\IronBrew2 CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\obj\Release\netcoreapp3.1\IronBrew2 CLI.AssemblyInfoInputs.cache
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\obj\Release\netcoreapp3.1\IronBrew2 CLI.AssemblyInfo.cs
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\obj\Release\netcoreapp3.1\IronBrew2 CLI.csproj.CoreCompileInputs.cache
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\obj\Release\netcoreapp3.1\IronBrew2 CLI.csproj.CopyComplete
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\obj\Release\netcoreapp3.1\IronBrew2 CLI.dll
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\obj\Release\netcoreapp3.1\IronBrew2 CLI.pdb
+C:\Users\Schmi\Desktop\other\IronBrew\IronBrew2 CLI\IronBrew2 CLI\IronBrew2 CLI\obj\Release\netcoreapp3.1\IronBrew2 CLI.genruntimeconfig.cache
